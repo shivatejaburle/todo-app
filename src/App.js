@@ -11,7 +11,7 @@ function App() {
         <p>
           ToDo App.
         </p>
-        <h1>Hello Shiva!</h1>        
+        <h1>Hello Shivateja Burle!</h1>        
         <List itemsList = {["My ToDo Item1", "My ToDo Item2", "My ToDo Item3"]} />
         <List itemsList = {["My ToDo Item4", "My ToDo Item5", "My ToDo Item6"]} />        
       </header>
